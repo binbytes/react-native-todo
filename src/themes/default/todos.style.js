@@ -4,7 +4,8 @@ import color from './color.config'
 
 const styles = StyleSheet.create({
     faltList:{
-        margin: 16
+        margin: 8,
+        marginTop: 16
     },
     footer:{
         marginBottom: 120
